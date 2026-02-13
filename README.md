@@ -83,3 +83,8 @@ git remote rm origin
 ```shell
 git remote set-url origin url
 ```
+
+- Clonar la rama indicada
+```shell
+git clone -b rama url
+```
