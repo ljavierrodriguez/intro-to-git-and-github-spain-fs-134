@@ -14,3 +14,17 @@ git clone URL
 ```shell
 git status
 ```
+
+- Añadir archivos al area de staging
+```shell
+git add <file>
+git add .
+git add -A
+git add *
+```
+
+- Guardar los archivos en el repositorio
+```shell
+git commit
+
+```
