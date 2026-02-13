@@ -64,3 +64,7 @@ git checkout rama
 git log
 ```
 
+- Fusionar o Unir ramas con la actual
+```shell
+git merge rama
+```
