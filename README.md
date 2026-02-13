@@ -83,3 +83,8 @@ git remote rm origin
 ```shell
 git remote set-url origin url
 ```
+
+- Crear y Activar una rama
+```shell
+git checkout -b rama
+```
