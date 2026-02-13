@@ -26,5 +26,5 @@ git add *
 - Guardar los archivos en el repositorio
 ```shell
 git commit
-
+git commit -m "descripcion de los cambios realizados"
 ```
