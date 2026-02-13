@@ -93,3 +93,8 @@ git clone -b rama url
 ```shell
 git checkout -b rama
 ```
+
+- Ver version de GIT
+```shell
+git --version
+```
