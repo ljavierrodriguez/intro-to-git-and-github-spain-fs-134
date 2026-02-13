@@ -68,3 +68,18 @@ git log
 ```shell
 git merge rama
 ```
+
+- Añadir repositorio remoto
+```shell
+git remote add origin url
+```
+
+- Eliminar repositorio remoto
+```shell
+git remote rm origin
+```
+
+- Modificar repositorio remoto
+```shell
+git remote set-url origin url
+```
