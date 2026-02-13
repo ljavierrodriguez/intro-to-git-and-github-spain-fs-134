@@ -88,3 +88,8 @@ git remote set-url origin url
 ```shell
 git clone -b rama url
 ```
+
+- Crear y Activar una rama
+```shell
+git checkout -b rama
+```
